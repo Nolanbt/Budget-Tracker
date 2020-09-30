@@ -21,7 +21,7 @@
   ### Link/Screenshot of App
   https://nolanbt.github.io/Budget-Tracker/
 
-  screenshot.PNG
+  ![Screenshot Image](screenshot.PNG)
 
   ### Contributions
 
