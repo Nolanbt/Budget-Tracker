@@ -19,7 +19,7 @@
   npm i
 
   ### Link/Screenshot of App
-  https://nolanbt.github.io/Budget-Tracker/
+  https://sleepy-hamlet-53318.herokuapp.com/
 
   ![Screenshot Image](screenshot.PNG)
 
